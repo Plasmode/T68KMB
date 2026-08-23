@@ -1,7 +1,7 @@
 # T68KMB
 T68KMB is T68KRC with 3 RC2014 expansion busses added. It is software compatible with T68KRC.
 
-
+![t68kmb](t68kmb_rev0_topview.jpg)
 ### Features
 - Motorola 68000 CPU
 - MC68681 DUART, port A is the console operating at 38400 baud, 8N1, with CTS/RTS hardware handshake.
@@ -24,6 +24,7 @@ T68KMB is T68KRC with 3 RC2014 expansion busses added. It is software compatible
 - Target for CP/M-68K ver 1.3
 - 102mm x 102mm 2-layer pc board
 
+![annotated](t68kmb_rev0_topview_annotated.jpg)
 ### Description
 T68KMB has the same design approach as T68KRC. Refer to T68KRC Description section for more details.
 
