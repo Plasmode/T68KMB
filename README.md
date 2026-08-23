@@ -26,7 +26,7 @@ T68KMB is T68KRC with 3 RC2014 expansion busses added. It is software compatible
 
 ![annotated](t68kmb_rev0_topview_annotated.jpg)
 ### Description
-T68KMB has the same design approach as T68KRC. Refer to T68KRC Description section for more details.
+T68KMB has the same design approach as T68KRC. Refer to [T68KRC Description](https://github.com/Plasmode/T68KRC/tree/master/T68KRC_REV0.1) section for more details.
 
 ### Design Information
 - Schematic
@@ -34,4 +34,4 @@ T68KMB has the same design approach as T68KRC. Refer to T68KRC Description secti
 - CPLD design files
 
 ### Software
-T68KMB software is compatible to T68KRC. Please refer to software section of T68KRC.
+T68KMB software is compatible to T68KRC. Please refer to [software section of T68KRC](https://github.com/Plasmode/T68KRC/tree/master/T68KRC_REV0.1).
